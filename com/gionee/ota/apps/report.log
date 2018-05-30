@@ -1,0 +1,30 @@
+[2018-05-24 14:00:17] [ERROR] com.tencent.qqmusic获取下载地址失败
+[2018-05-24 14:00:17] [ERROR] 获取下载地址的页面url=http://api.appgionee.com/api/gionee/getDownloadUrl?packageName=com.tencent.qqmusic
+[2018-05-24 14:00:17] [ERROR] 异常类型：<class 'AttributeError'>, 在 gnApps.py 的第 26 行；'GN_Apps' object has no attribute 'logger'
+
+	应用宝获取APP地址失败：http://api.appgionee.com/api/gionee/getDownloadUrl?packageName=com.tencent.qqmusic
+[2018-05-24 14:00:33] [INFO] com.tencent.qqmusic获取下载地址成功
+[2018-05-24 14:00:33] [ERROR] com.tencent.qqmusic获取下载地址失败
+[2018-05-24 14:00:33] [ERROR] 获取下载地址的页面url=http://api.appgionee.com/api/gionee/getDownloadUrl?packageName=com.tencent.qqmusic
+[2018-05-24 14:00:33] [ERROR] 异常类型：<class 'TypeError'>, 在 gnApps.py 的第 27 行；must be str, not dict
+
+	应用宝获取APP地址失败：http://api.appgionee.com/api/gionee/getDownloadUrl?packageName=com.tencent.qqmusic
+[2018-05-24 14:02:14] [INFO] com.tencent.qqmusic获取下载地址成功
+[2018-05-24 14:02:14] [INFO] 下载地址=http://tencent.myaora.net/test/upload/open/2017/03/23302/apk/20180523104649_034_6500.apk
+[2018-05-24 14:05:59] [INFO] com.tencent.qqmusic获取下载地址成功
+[2018-05-24 14:05:59] [INFO] 下载地址=http://tencent.myaora.net/test/upload/open/2017/03/23302/apk/20180523104649_034_6500.apk
+[2018-05-24 14:10:01] [INFO] com.tencent.qqmusic获取下载地址成功
+[2018-05-24 14:10:01] [INFO] 下载地址=http://tencent.myaora.net/test/upload/open/2017/03/23302/apk/20180523104649_034_6500.apk
+[2018-05-24 14:10:41] [INFO] com.tencent.qqmusic获取下载地址成功
+[2018-05-24 14:10:41] [INFO] 下载地址=http://tencent.myaora.net/test/upload/open/2017/03/23302/apk/20180523104649_034_6500.apk
+[2018-05-24 14:13:26] [INFO] com.tencent.qqmusic获取下载地址成功
+[2018-05-24 14:13:26] [INFO] 下载地址=http://tencent.myaora.net/test/upload/open/2017/03/23302/apk/20180523104649_034_6500.apk
+[2018-05-24 14:18:38] [INFO] com.tencent.qqmusic获取下载地址成功
+[2018-05-24 14:18:38] [INFO] 下载地址=http://tencent.myaora.net/test/upload/open/2017/03/23302/apk/20180523104649_034_6500.apk
+[2018-05-24 14:20:02] [ERROR] 异常类型：<class 'AttributeError'>, 在 gnApps.py 的第 55 行；'GN_Apps' object has no attribute 'logger'
+
+	应用宝下载APP失败：http://tencent.myaora.net/test/upload/open/2017/03/23302/apk/20180523104649_034_6500.apk
+[2018-05-24 14:20:02] [ERROR] 下载文件失败=http://tencent.myaora.net/test/upload/open/2017/03/23302/apk/20180523104649_034_6500.apk
+[2018-05-24 14:20:28] [INFO] com.tencent.qqmusic获取下载地址成功
+[2018-05-24 14:20:28] [INFO] 下载地址=http://tencent.myaora.net/test/upload/open/2017/03/23302/apk/20180523104649_034_6500.apk
+[2018-05-24 14:21:50] [INFO] com.tencent.qqmusic下载成功

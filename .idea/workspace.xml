@@ -1,0 +1,1328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="336066da-2758-4385-bc2a-32655f579b1f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/gionee/ota/resources/AutoBvtHelper.apk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/gionee/ota/traversal/AutoBvtHelper.apk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/gionee/ota/TestMain.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/gionee/ota/apps/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/gionee/ota/resources/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/gionee/ota/traversal/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/gionee/ota/log/adblog.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/gionee/ota/apps/appsMgr.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/gionee/ota/traversal/bvtTraversal.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/gionee/ota/request/downloadAddrMulti.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/gionee/ota/apps/gnApps.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/gionee/ota/intall/installMgr.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/gionee/ota/intall/installMulti.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/gionee/ota/apps/qqApps.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/suse.xml" />
+      <change type="DELETED" beforePath="E:\python_study\OtaNeedInstalledApps\com\gionee\ota\dist\Main.exe" afterPath="" />
+      <change type="DELETED" beforePath="E:\python_study\OtaNeedInstalledApps\com\gionee\ota\downloadApps\bubei.tingshu_6.3.4_18634.apk" afterPath="" />
+      <change type="DELETED" beforePath="E:\python_study\OtaNeedInstalledApps\com\gionee\ota\downloadApps\cn.jj_5.02.02_50202.apk" afterPath="" />
+      <change type="DELETED" beforePath="E:\python_study\OtaNeedInstalledApps\com\gionee\ota\downloadApps\com.UCMobile_11.9.6.976_717.apk" afterPath="" />
+      <change type="DELETED" beforePath="E:\python_study\OtaNeedInstalledApps\com\gionee\ota\downloadApps\com.alibaba.android.rimet_4.3.6_472.apk" afterPath="" />
+      <change type="DELETED" beforePath="E:\python_study\OtaNeedInstalledApps\com\gionee\ota\downloadApps\com.autonavi.minimap_8.50.0.2169_6500.apk" afterPath="" />
+      <change type="DELETED" beforePath="E:\python_study\OtaNeedInstalledApps\com\gionee\ota\downloadApps\com.baidu.homework_10.5.0_466.apk" afterPath="" />
+      <change type="DELETED" beforePath="E:\python_study\OtaNeedInstalledApps\com\gionee\ota\downloadApps\com.baidu.searchbox_10.6.5.10_43537664.apk" afterPath="" />
+      <change type="DELETED" beforePath="E:\python_study\OtaNeedInstalledApps\com\gionee\ota\downloadApps\com.cleanmaster.mguard_cn_6.04.1_60411066.apk" afterPath="" />
+      <change type="DELETED" beforePath="E:\python_study\OtaNeedInstalledApps\com\gionee\ota\downloadApps\com.duowan.kiwi_5.10.5_16920.apk" afterPath="" />
+      <change type="DELETED" beforePath="E:\python_study\OtaNeedInstalledApps\com\gionee\ota\downloadApps\com.eg.android.AlipayGphone_10.1.22.835_127.apk" afterPath="" />
+      <change type="DELETED" beforePath="E:\python_study\OtaNeedInstalledApps\com\gionee\ota\downloadApps\com.hexin.plat.android_V9.59.03_4359.apk" afterPath="" />
+      <change type="DELETED" beforePath="E:\python_study\OtaNeedInstalledApps\com\gionee\ota\downloadApps\com.ifreetalk.ftalk_6.5.001_10605001.apk" afterPath="" />
+      <change type="DELETED" beforePath="E:\python_study\OtaNeedInstalledApps\com\gionee\ota\downloadApps\com.immomo.momo_8.7.8_1977.apk" afterPath="" />
+      <change type="DELETED" beforePath="E:\python_study\OtaNeedInstalledApps\com\gionee\ota\downloadApps\com.jifen.qukan_3.0.1.000.0508.1546_30001000.apk" afterPath="" />
+      <change type="DELETED" beforePath="E:\python_study\OtaNeedInstalledApps\com\gionee\ota\downloadApps\com.kugou.android_8.9.6_8969.apk" afterPath="" />
+      <change type="DELETED" beforePath="E:\python_study\OtaNeedInstalledApps\com\gionee\ota\downloadApps\com.lightsky.video_1.2.3_10203.apk" afterPath="" />
+      <change type="DELETED" beforePath="E:\python_study\OtaNeedInstalledApps\com\gionee\ota\downloadApps\com.moji.mjweather_7.0404.02_7040402.apk" afterPath="" />
+      <change type="DELETED" beforePath="E:\python_study\OtaNeedInstalledApps\com\gionee\ota\downloadApps\com.netease.cloudmusic_5.2.0_118.apk" afterPath="" />
+      <change type="DELETED" beforePath="E:\python_study\OtaNeedInstalledApps\com\gionee\ota\downloadApps\com.netease.newsreader.activity_35.1_817.apk" afterPath="" />
+      <change type="DELETED" beforePath="E:\python_study\OtaNeedInstalledApps\com\gionee\ota\downloadApps\com.qiyi.video_9.5.0_81070.apk" afterPath="" />
+      <change type="DELETED" beforePath="E:\python_study\OtaNeedInstalledApps\com\gionee\ota\downloadApps\com.qq.reader_6.6.2.666_110.apk" afterPath="" />
+      <change type="DELETED" beforePath="E:\python_study\OtaNeedInstalledApps\com\gionee\ota\downloadApps\com.qqgame.hlddz_6.012.001_191.apk" afterPath="" />
+      <change type="DELETED" beforePath="E:\python_study\OtaNeedInstalledApps\com\gionee\ota\downloadApps\com.shuqi.controller_10.6.8.65_150.apk" afterPath="" />
+      <change type="DELETED" beforePath="E:\python_study\OtaNeedInstalledApps\com\gionee\ota\downloadApps\com.sinovatech.unicom.ui_5.7.2_63.apk" afterPath="" />
+      <change type="DELETED" beforePath="E:\python_study\OtaNeedInstalledApps\com\gionee\ota\downloadApps\com.smile.gifmaker_5.6.4.6054_6054.apk" afterPath="" />
+      <change type="DELETED" beforePath="E:\python_study\OtaNeedInstalledApps\com\gionee\ota\downloadApps\com.smile.gifmaker_5.7.0.6097_6097.apk" afterPath="" />
+      <change type="DELETED" beforePath="E:\python_study\OtaNeedInstalledApps\com\gionee\ota\downloadApps\com.snda.wifilocating_4.2.81_3201.apk" afterPath="" />
+      <change type="DELETED" beforePath="E:\python_study\OtaNeedInstalledApps\com\gionee\ota\downloadApps\com.snda.wifilocating_4.2.82_3202.apk" afterPath="" />
+      <change type="DELETED" beforePath="E:\python_study\OtaNeedInstalledApps\com\gionee\ota\downloadApps\com.sogou.novel_4.6.20_4620.apk" afterPath="" />
+      <change type="DELETED" beforePath="E:\python_study\OtaNeedInstalledApps\com\gionee\ota\downloadApps\com.ss.android.article.news_6.7.2_672.apk" afterPath="" />
+      <change type="DELETED" beforePath="E:\python_study\OtaNeedInstalledApps\com\gionee\ota\downloadApps\com.ss.android.article.news_6.7.3_673.apk" afterPath="" />
+      <change type="DELETED" beforePath="E:\python_study\OtaNeedInstalledApps\com\gionee\ota\downloadApps\com.ss.android.article.video_2.5.2_252.apk" afterPath="" />
+      <change type="DELETED" beforePath="E:\python_study\OtaNeedInstalledApps\com\gionee\ota\downloadApps\com.ss.android.ugc.aweme_1.8.2_182.apk" afterPath="" />
+      <change type="DELETED" beforePath="E:\python_study\OtaNeedInstalledApps\com\gionee\ota\downloadApps\com.ss.android.ugc.live_3.9.0_390.apk" afterPath="" />
+      <change type="DELETED" beforePath="E:\python_study\OtaNeedInstalledApps\com\gionee\ota\downloadApps\com.taobao.taobao_7.8.2_191.apk" afterPath="" />
+      <change type="DELETED" beforePath="E:\python_study\OtaNeedInstalledApps\com\gionee\ota\downloadApps\com.taobao.taobao_7.8.6_194.apk" afterPath="" />
+      <change type="DELETED" beforePath="E:\python_study\OtaNeedInstalledApps\com\gionee\ota\downloadApps\com.tencent.android.qqdownloader_7.2.0_7202130.apk" afterPath="" />
+      <change type="DELETED" beforePath="E:\python_study\OtaNeedInstalledApps\com\gionee\ota\downloadApps\com.tencent.karaoke_4.6.6.278_151.apk" afterPath="" />
+      <change type="DELETED" beforePath="E:\python_study\OtaNeedInstalledApps\com\gionee\ota\downloadApps\com.tencent.mm_6.6.6_1300.apk" afterPath="" />
+      <change type="DELETED" beforePath="E:\python_study\OtaNeedInstalledApps\com\gionee\ota\downloadApps\com.tencent.mobileqq_7.6.0_832.apk" afterPath="" />
+      <change type="DELETED" beforePath="E:\python_study\OtaNeedInstalledApps\com\gionee\ota\downloadApps\com.tencent.peng_1.63.0.0Build7_82.apk" afterPath="" />
+      <change type="DELETED" beforePath="E:\python_study\OtaNeedInstalledApps\com\gionee\ota\downloadApps\com.tencent.qqgame.xq_2.9.2.1_29201.apk" afterPath="" />
+      <change type="DELETED" beforePath="E:\python_study\OtaNeedInstalledApps\com\gionee\ota\downloadApps\com.tencent.qqlive_6.1.1.15689_15689.apk" afterPath="" />
+      <change type="DELETED" beforePath="E:\python_study\OtaNeedInstalledApps\com\gionee\ota\downloadApps\com.tencent.qqmusic_8.2.1.2_838.apk" afterPath="" />
+      <change type="DELETED" beforePath="E:\python_study\OtaNeedInstalledApps\com\gionee\ota\downloadApps\com.tencent.qqpimsecure_7.6.2_1231.apk" afterPath="" />
+      <change type="DELETED" beforePath="E:\python_study\OtaNeedInstalledApps\com\gionee\ota\downloadApps\com.tencent.qt.qtl_6.5.7_3610.apk" afterPath="" />
+      <change type="DELETED" beforePath="E:\python_study\OtaNeedInstalledApps\com\gionee\ota\downloadApps\com.tencent.tmgp.cf_1.0.30.220_220.apk" afterPath="" />
+      <change type="DELETED" beforePath="E:\python_study\OtaNeedInstalledApps\com\gionee\ota\downloadApps\com.tencent.tmgp.ledou.mhhy_1.2.1_11.apk" afterPath="" />
+      <change type="DELETED" beforePath="E:\python_study\OtaNeedInstalledApps\com\gionee\ota\downloadApps\com.tencent.tmgp.minitech.miniworld_0.25.6_6406.apk" afterPath="" />
+      <change type="DELETED" beforePath="E:\python_study\OtaNeedInstalledApps\com\gionee\ota\downloadApps\com.tencent.tmgp.sgame_1.34.1.11_34011107.apk" afterPath="" />
+      <change type="DELETED" beforePath="E:\python_study\OtaNeedInstalledApps\com\gionee\ota\downloadApps\com.tencent.tmgp.weile.gymaj_3.9.1_54.apk" afterPath="" />
+      <change type="DELETED" beforePath="E:\python_study\OtaNeedInstalledApps\com\gionee\ota\downloadApps\com.videogo_4.1.2.20180417_74.apk" afterPath="" />
+      <change type="DELETED" beforePath="E:\python_study\OtaNeedInstalledApps\com\gionee\ota\downloadApps\com.ximalaya.ting.android_6.3.93.3_161.apk" afterPath="" />
+      <change type="DELETED" beforePath="E:\python_study\OtaNeedInstalledApps\com\gionee\ota\downloadApps\com.xst_1.2.5_8.apk" afterPath="" />
+      <change type="DELETED" beforePath="E:\python_study\OtaNeedInstalledApps\com\gionee\ota\downloadApps\com.xunmeng.pinduoduo_4.4.0_4040.apk" afterPath="" />
+      <change type="DELETED" beforePath="E:\python_study\OtaNeedInstalledApps\com\gionee\ota\downloadApps\com.youku.phone_7.2.5_156.apk" afterPath="" />
+      <change type="DELETED" beforePath="E:\python_study\OtaNeedInstalledApps\com\gionee\ota\downloadApps\jp.co.hit_point.tabikaeru_1.0.0_19.apk" afterPath="" />
+      <change type="DELETED" beforePath="E:\python_study\OtaNeedInstalledApps\com\gionee\ota\request\com.xunmeng.pinduoduo_4.4.0_4040.apk" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/gionee/ota/resource/AutoBvtHelper.apk" afterPath="$PROJECT_DIR$/com/gionee/ota/resource/AutoBvtHelper.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/gionee/ota/OTA项目应用的预置应用列表测试建议_梳理三方包名.xlsx" afterPath="$PROJECT_DIR$/com/gionee/ota/OTA项目应用的预置应用列表测试建议_梳理三方包名.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/gionee/ota/build/Main/base_library.zip" afterPath="$PROJECT_DIR$/com/gionee/ota/build/Main/base_library.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/gionee/ota/build/Main/out00-PKG.pkg" afterPath="$PROJECT_DIR$/com/gionee/ota/build/Main/out00-PKG.pkg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/gionee/ota/build/Main/out00-PYZ.pyz" afterPath="$PROJECT_DIR$/com/gionee/ota/build/Main/out00-PYZ.pyz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/gionee/ota/intall/Install.py" afterPath="$PROJECT_DIR$/com/gionee/ota/intall/Install.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/gionee/ota/Main.py" afterPath="$PROJECT_DIR$/com/gionee/ota/Main.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/gionee/ota/Main.spec" afterPath="$PROJECT_DIR$/com/gionee/ota/Main.spec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/gionee/ota/MultiMain.py" afterPath="$PROJECT_DIR$/com/gionee/ota/MultiMain.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/gionee/ota/request/downloadAppMulti.py" afterPath="$PROJECT_DIR$/com/gionee/ota/request/downloadAppMulti.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/gionee/ota/build/Main/out00-Analysis.toc" afterPath="$PROJECT_DIR$/com/gionee/ota/build/Main/out00-Analysis.toc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/gionee/ota/build/Main/out00-EXE.toc" afterPath="$PROJECT_DIR$/com/gionee/ota/build/Main/out00-EXE.toc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/gionee/ota/build/Main/out00-PKG.toc" afterPath="$PROJECT_DIR$/com/gionee/ota/build/Main/out00-PKG.toc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/gionee/ota/build/Main/out00-PYZ.toc" afterPath="$PROJECT_DIR$/com/gionee/ota/build/Main/out00-PYZ.toc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/gionee/ota/report.log" afterPath="$PROJECT_DIR$/com/gionee/ota/report.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/gionee/ota/dist/report.log" afterPath="$PROJECT_DIR$/com/gionee/ota/dist/report.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/gionee/ota/build/Main/warnMain.txt" afterPath="$PROJECT_DIR$/com/gionee/ota/build/Main/warnMain.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/gionee/ota/build/Main/xref-Main.html" afterPath="$PROJECT_DIR$/com/gionee/ota/build/Main/xref-Main.html" />
+    </list>
+    <ignored path="OtaNeedInstalledApps.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="OtaNeedInstalledApps" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Install.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com/gionee/ota/intall/Install.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="36" column="8" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="8" />
+              <folding>
+                <element signature="e#44#78#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="downloadAddrMulti.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/com/gionee/ota/request/downloadAddrMulti.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.68108976">
+              <caret line="71" column="25" selection-start-line="71" selection-start-column="25" selection-end-line="71" selection-end-column="25" />
+              <folding>
+                <element signature="e#44#59#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com/gionee/ota/Main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="48" column="21" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="21" />
+              <folding>
+                <element signature="e#24#44#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="installMgr.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com/gionee/ota/intall/installMgr.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="28" column="46" selection-start-line="28" selection-start-column="46" selection-end-line="28" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MultiMain.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com/gionee/ota/MultiMain.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="65" column="38" selection-start-line="65" selection-start-column="38" selection-end-line="65" selection-end-column="38" />
+              <folding>
+                <element signature="e#24#55#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="appsMgr.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com/gionee/ota/apps/appsMgr.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="39" column="36" selection-start-line="39" selection-start-column="36" selection-end-line="39" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="installMulti.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com/gionee/ota/intall/installMulti.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="41" column="29" selection-start-line="41" selection-start-column="29" selection-end-line="41" selection-end-column="29" />
+              <folding>
+                <element signature="e#24#46#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="downloadAppMulti.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com/gionee/ota/request/downloadAppMulti.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="95" column="98" selection-start-line="95" selection-start-column="83" selection-end-line="95" selection-end-column="98" />
+              <folding>
+                <element signature="e#24#63#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gnApps.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com/gionee/ota/apps/gnApps.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+              <folding>
+                <element signature="e#24#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="qqApps.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com/gionee/ota/apps/qqApps.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="69" column="39" selection-start-line="69" selection-start-column="39" selection-end-line="69" selection-end-column="39" />
+              <folding>
+                <element signature="e#44#59#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/com/gionee/ota/gol.py" />
+        <option value="$PROJECT_DIR$/com/gionee/ota/log/Log.py" />
+        <option value="$PROJECT_DIR$/com/gionee/ota/excel/excel.py" />
+        <option value="$PROJECT_DIR$/com/gionee/ota/request/downloadApp.py" />
+        <option value="$PROJECT_DIR$/com/gionee/ota/Base.py" />
+        <option value="$PROJECT_DIR$/com/gionee/ota/util/Util.py" />
+        <option value="$PROJECT_DIR$/com/gionee/ota/TestMain.py" />
+        <option value="$PROJECT_DIR$/com/gionee/ota/log/adblog.py" />
+        <option value="$PROJECT_DIR$/com/gionee/ota/qqApp/apps.py" />
+        <option value="$PROJECT_DIR$/com/gionee/ota/qqApp/appsMgr.py" />
+        <option value="$PROJECT_DIR$/com/gionee/ota/apps/gnApps.py" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/com/gionee/ota/intall/installMgr.py" />
+        <option value="$PROJECT_DIR$/com/gionee/ota/traversal/bvtTraversal.py" />
+        <option value="$PROJECT_DIR$/com/gionee/ota/request/requireAppDownloadAddrMulti.py" />
+        <option value="$PROJECT_DIR$/com/gionee/ota/request/downloadAddrMulti.py" />
+        <option value="$PROJECT_DIR$/com/gionee/ota/MultiMain.py" />
+        <option value="$PROJECT_DIR$/com/gionee/ota/intall/installMulti.py" />
+        <option value="$PROJECT_DIR$/com/gionee/ota/apps/appsMgr.py" />
+        <option value="$PROJECT_DIR$/com/gionee/ota/request/downloadAppMulti.py" />
+        <option value="$PROJECT_DIR$/com/gionee/ota/Main.py" />
+        <option value="$PROJECT_DIR$/com/gionee/ota/intall/Install.py" />
+        <option value="$PROJECT_DIR$/com/gionee/ota/apps/qqApps.py" />
+      </list>
+    </option>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1" />
+    <option name="y" value="1" />
+    <option name="width" value="1843" />
+    <option name="height" value="1078" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Internationalization issues</id>
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Buildout</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OtaNeedInstalledApps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OtaNeedInstalledApps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OtaNeedInstalledApps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OtaNeedInstalledApps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OtaNeedInstalledApps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OtaNeedInstalledApps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OtaNeedInstalledApps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gionee" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OtaNeedInstalledApps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OtaNeedInstalledApps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gionee" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ota" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OtaNeedInstalledApps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OtaNeedInstalledApps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gionee" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ota" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="request" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OtaNeedInstalledApps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OtaNeedInstalledApps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gionee" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ota" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="intall" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OtaNeedInstalledApps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OtaNeedInstalledApps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gionee" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ota" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="downloadApps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="recentsLimit" value="5" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="OtaNeedInstalledApps" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="OtaNeedInstalledApps" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\python_study\OtaNeedInstalledApps\com\gionee\ota\resources" />
+      <recent name="E:\python_study\OtaNeedInstalledApps\com\gionee\ota\traversal" />
+      <recent name="E:\python_study\OtaNeedInstalledApps\com\gionee\ota\resource" />
+      <recent name="E:\python_study\OtaNeedInstalledApps\com\gionee\ota" />
+      <recent name="E:\python_study\OtaNeedInstalledApps\com\gionee\ota\excel" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Main">
+    <configuration default="false" name="Main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/gionee/ota" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="OtaNeedInstalledApps" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/gionee/ota/Main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="downloadAppMulti" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/gionee/ota/request" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="OtaNeedInstalledApps" />
+      <option name="SCRIPT_NAME" value="E:\python_study\OtaNeedInstalledApps\com\gionee\ota\request\downloadAddrMulti.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="MultiMain" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/gionee/ota" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="OtaNeedInstalledApps" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/gionee/ota/MultiMain.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestMain" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/gionee/ota" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="OtaNeedInstalledApps" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/gionee/ota/TestMain.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="gnApps" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/gionee/ota/apps" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="OtaNeedInstalledApps" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/gionee/ota/apps/gnApps.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="OtaNeedInstalledApps" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="OtaNeedInstalledApps" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="OtaNeedInstalledApps" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="OtaNeedInstalledApps" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="OtaNeedInstalledApps" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="OtaNeedInstalledApps" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="downloadApp" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/gionee/ota/request" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="OtaNeedInstalledApps" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/gionee/ota/request/downloadApp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="Python.downloadApp" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Main" />
+      <item index="2" class="java.lang.String" itemvalue="Python.downloadAppMulti" />
+      <item index="3" class="java.lang.String" itemvalue="Python.MultiMain" />
+      <item index="4" class="java.lang.String" itemvalue="Python.TestMain" />
+      <item index="5" class="java.lang.String" itemvalue="Python.gnApps" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.Main" />
+        <item index="1" class="java.lang.String" itemvalue="Python.MultiMain" />
+        <item index="2" class="java.lang.String" itemvalue="Python.gnApps" />
+        <item index="3" class="java.lang.String" itemvalue="Python.TestMain" />
+        <item index="4" class="java.lang.String" itemvalue="Python.downloadAppMulti" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="336066da-2758-4385-bc2a-32655f579b1f" name="Default" comment="" />
+      <created>1526266937023</created>
+      <option name="number" value="Default" />
+      <updated>1526266937023</updated>
+    </task>
+    <task id="LOCAL-00001" summary="first add">
+      <created>1526636710612</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1526636710612</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first add">
+      <created>1526638175124</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1526638175124</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add detail content">
+      <created>1526865851236</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1526865851236</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add detail content">
+      <created>1526865920950</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1526865920950</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add detail content">
+      <created>1526865964045</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1526865964045</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add detail content">
+      <created>1526865983579</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1526865983579</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add detail content">
+      <created>1526866033582</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1526866033582</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add detail content">
+      <created>1526866060910</created>
+      <option name="number" value="00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1526866060910</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add detail content">
+      <created>1526866092683</created>
+      <option name="number" value="00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1526866092683</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1" y="1" width="1843" height="1078" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26633444" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3753878" sideWeight="0.51066154" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.4915254" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32982087" sideWeight="0.4980864" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32988626" sideWeight="0.4980864" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31401476" sideWeight="0.48933843" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32988626" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first add" />
+    <MESSAGE value="add detail content" />
+    <option name="LAST_COMMIT_MESSAGE" value="add detail content" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="6" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/com/gionee/ota/util/Util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/gionee/ota/intall/Install.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="51" column="46" selection-start-line="51" selection-start-column="46" selection-end-line="51" selection-end-column="46" />
+          <folding>
+            <element signature="e#44#78#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/gionee/ota/Main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="106" column="0" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
+          <folding>
+            <element signature="e#24#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="46" column="45" selection-start-line="46" selection-start-column="45" selection-end-line="46" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/gionee/ota/Base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/gionee/ota/request/downloadApp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#44#59#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/gionee/ota/request/downloadAddrMulti.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="54" column="27" selection-start-line="54" selection-start-column="27" selection-end-line="54" selection-end-column="27" />
+          <folding>
+            <element signature="e#44#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python36/Lib/queue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="114" column="8" selection-start-line="114" selection-start-column="8" selection-end-line="114" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/gionee/ota/MultiMain.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="49" column="28" selection-start-line="49" selection-start-column="28" selection-end-line="49" selection-end-column="28" />
+          <folding>
+            <element signature="e#24#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/gionee/ota/log/Log.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/gionee/ota/util/Util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/gionee/ota/intall/Install.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="51" column="46" selection-start-line="51" selection-start-column="46" selection-end-line="51" selection-end-column="46" />
+          <folding>
+            <element signature="e#44#78#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/gionee/ota/Main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="106" column="0" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
+          <folding>
+            <element signature="e#24#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="46" column="45" selection-start-line="46" selection-start-column="45" selection-end-line="46" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/gionee/ota/Base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/gionee/ota/request/downloadApp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="34" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="34" />
+          <folding>
+            <element signature="e#44#59#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/gionee/ota/gol.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/gionee/ota/log/Log.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/gionee/ota/util/Util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/gionee/ota/intall/Install.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <element signature="e#44#78#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/gionee/ota/excel/excel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="24" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="24" />
+          <folding>
+            <element signature="e#44#61#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/gionee/ota/Main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#24#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python36/Lib/site-packages/urllib3/util/connection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="72" column="0" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python36/Lib/ntpath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="551" column="0" selection-start-line="551" selection-start-column="0" selection-end-line="551" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python36/Lib/site-packages/urllib3/util/connection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="72" column="0" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/gionee/ota/gol.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm40/system/python_stubs/1072250519/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="3547" column="8" selection-start-line="3547" selection-start-column="8" selection-end-line="3547" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/gionee/ota/log.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-53.257248">
+          <caret line="10" column="48" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python36/Lib/queue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="130" column="37" selection-start-line="130" selection-start-column="37" selection-end-line="130" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/gionee/ota/util/Util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/gionee/ota/excel/excel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="97" column="8" selection-start-line="97" selection-start-column="8" selection-end-line="97" selection-end-column="8" />
+          <folding>
+            <element signature="e#44#61#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/gionee/ota/log/Log.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="15" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/gionee/ota/log/adblog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="48" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
+          <folding>
+            <element signature="e#44#61#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/gionee/ota/Base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="55" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/gionee/ota/traversal/bvtTraversal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+          <folding>
+            <element signature="e#25#62#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor vertical-scroll-proportion="0.48963133">
+            <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/gionee/ota/TestMain.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="30" column="31" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
+          <folding>
+            <element signature="e#24#55#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python36/Lib/shutil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/gionee/ota/request/downloadApp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="67" column="30" selection-start-line="67" selection-start-column="30" selection-end-line="67" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/gionee/ota/apps/appsMgr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="39" column="36" selection-start-line="39" selection-start-column="36" selection-end-line="39" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/gionee/ota/intall/installMulti.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="41" column="29" selection-start-line="41" selection-start-column="29" selection-end-line="41" selection-end-column="29" />
+          <folding>
+            <element signature="e#24#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/gionee/ota/request/downloadAppMulti.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="95" column="98" selection-start-line="95" selection-start-column="83" selection-end-line="95" selection-end-column="98" />
+          <folding>
+            <element signature="e#24#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/gionee/ota/intall/Install.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="36" column="8" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="8" />
+          <folding>
+            <element signature="e#44#78#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/gionee/ota/apps/gnApps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+          <folding>
+            <element signature="e#24#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/gionee/ota/apps/qqApps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="69" column="39" selection-start-line="69" selection-start-column="39" selection-end-line="69" selection-end-column="39" />
+          <folding>
+            <element signature="e#44#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/gionee/ota/MultiMain.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="65" column="38" selection-start-line="65" selection-start-column="38" selection-end-line="65" selection-end-column="38" />
+          <folding>
+            <element signature="e#24#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/gionee/ota/intall/installMgr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="46" selection-start-line="28" selection-start-column="46" selection-end-line="28" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/gionee/ota/Main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="48" column="21" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="21" />
+          <folding>
+            <element signature="e#24#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/gionee/ota/request/downloadAddrMulti.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.68108976">
+          <caret line="71" column="25" selection-start-line="71" selection-start-column="25" selection-end-line="71" selection-end-column="25" />
+          <folding>
+            <element signature="e#44#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
